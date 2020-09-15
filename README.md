@@ -70,7 +70,7 @@ Você precisa clonar o repositório e pode fazer isso digitando em seu terminal 
 
 ### :satellite: Backend
 
-Após baixar o repositório entre na pasta que foi baixada `$ cd UI-Clone-Spotify/` e execute `$ npm install` ou `$ yarn install`
+Após baixar o repositório entre na pasta que foi baixada `$ cd spotify-clone-react-native/` e execute `$ npm install` ou `$ yarn install`
 
 ### :iphone: Mobile
   
