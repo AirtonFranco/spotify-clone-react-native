@@ -1,0 +1,316 @@
+{
+  "Recently": {
+    "Playlists": [
+      {
+        "id": 1,
+        "name": "músicas para ouvir enquanto coda",
+        "photoAlbum": "https://pbs.twimg.com/profile_images/953595371875422210/0pWsfSSp_400x400.jpg",
+        "author": "Rockeseat"
+      },
+      {
+        "id": 2,
+        "name": "80s Rock Anthems",
+        "photoAlbum": "https://indieground.net/wp-content/uploads/2018/02/indieproduct_80svol1_album_cover_main-800x800.jpg",
+        "author": "Spotify"
+      },
+      {
+        "id": 3,
+        "name": "Top Brasil",
+        "photoAlbum": "https://charts-images.scdn.co/REGIONAL_BR_DEFAULT.jpg",
+        "author": "Spotify"
+      },
+      {
+        "id": 4,
+        "name": "Mamonas Assassinas",
+        "photoAlbum": "https://i.scdn.co/image/f679999cce8bb0a9fca90efe04e17bfe431fe15e",
+        "author": "Spotify"
+      },
+      {
+        "id": 5,
+        "name": "Your top Songs 2019",
+        "photoAlbum": "https://lineup-images.scdn.co/your-top-songs-2019_DEFAULT-en.jpg",
+        "author": "Spotify"
+      },
+      {
+        "id": 6,
+        "name": "Your top Songs 2018",
+        "photoAlbum": "https://lineup-images.scdn.co/your-top-songs-2018_DEFAULT-en.jpg",
+        "author": "Spotify"
+      },
+      {
+        "id": 7,
+        "name": "Your top Songs 2017",
+        "photoAlbum": "https://lineup-images.scdn.co/your-top-songs-2017_DEFAULT-en.jpg",
+        "author": "Spotify"
+      }
+    ],
+    "YourPlaylists": [
+      {
+        "id": 1,
+        "name": "Coding",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d0000b2739feadc48ab0661e9b3a9170bab67616d0000b273a4d73b32e40487605c73cffec041fc9e4ea400357329fd7110952c014561ab5ae6d17a95cac4810507dfb0a8242e4463d4c32a30"
+      },
+      {
+        "id": 2,
+        "name": "Games",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d0000b273235c4311089a9a5542ce352bab67616d0000b273abcf254fd0da4ebf3d7ae05bab67616d0000b273eb0018f092aedc32d20b2bdaab67616d0000b273f29186c301104c2d45b158bb"
+      }
+    ]
+  },
+
+  "PodCasts": {
+    "Shows": [
+      {
+        "id": 1,
+        "name": "PodProgramar",
+        "photoAlbum": "https://i.scdn.co/image/b0cc58d025cff4b54c2cedc0c4bf32d4be9c2f3f"
+      },
+      {
+        "id": 2,
+        "name": "Lambda3 Podcast",
+        "photoAlbum": "https://i.scdn.co/image/ae139d1d6a50ce49d17ef79918894ab83c1e6dc3"
+      },
+      {
+        "id": 3,
+        "name": "Hispster",
+        "photoAlbum": "https://i.scdn.co/image/43c9fec68da45cef0c610778dc17ecbba8b63629"
+      },
+      {
+        "id": 4,
+        "name": "CanalTech",
+        "photoAlbum": "https://i.scdn.co/image/156b0163f5cce547329df16a894a33df30e7fb8a"
+      }
+    ],
+    "Episodies": [
+      {
+        "id": 1,
+        "name": "CT News - 28/02/2020 (WahtsApp está quase em todos os celulares brasileiros)",
+        "podcastChanel": "PodCast Canaltech",
+        "informations": "YESTERDAY - 10 MIN",
+        "photo": "https://i.scdn.co/image/156b0163f5cce547329df16a894a33df30e7fb8a"
+      },
+      {
+        "id": 2,
+        "name": "Lambda3 Podcast 184 - O impacto de tecnologias obsoletas para os negócios",
+        "podcastChanel": "Lambda3 Podcast",
+        "informations": "YESTERDAY - 2 MIN",
+        "photo": "https://i.scdn.co/image/20d16c63b26213928412956055adf181ea2a94e7"
+      },
+      {
+        "id": 3,
+        "name": "Débito Técnico na Quero Educação - Hipster On The Road #27",
+        "podcastChanel": "Hispster ponto Tech",
+        "informations": "YESTERDAY - 5 MIN",
+        "photo": "https://i.scdn.co/image/1abfbb42025e5039c9e4468bea7f77e0baf47f65"
+      },
+      {
+        "id": 4,
+        "name": "PodProgramar #72 - Transformação Digital",
+        "podcastChanel": "PodProgamar",
+        "informations": "YESTERDAY - 40 MIN",
+        "photo": "https://i.scdn.co/image/8a0be5f6889225401eee3e9315f81c57c23bdc07"
+      }
+    ]
+  },
+  "Playlists": {
+    "PopularPlaylists": [
+      {
+        "id": 1,
+        "name": "Top Brasil",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f0000000250b6d32919a796d3324e6dc7"
+      },
+      {
+        "id": 2,
+        "name": "Today's Top Hits",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f000000025ce7025c95445d9051a1dfe0"
+      },
+      {
+        "id": 3,
+        "name": "This is Henrique & Juliano",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f0000000298338cecf64aad5a97608c05"
+      },
+      {
+        "id": 4,
+        "name": "This is Lergião Urbana",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f00000002a50df6d9c6495c418dc807f6"
+      },
+      {
+        "id": 5,
+        "name": "This is Wesley Safadão",
+        "photoAlbum": "https://i.scdn.co/image/ab67706f00000002db8a049afea6d6a779d0c4cb"
+      }
+    ],
+    "MadeForYou": [
+      {
+        "id": 1,
+        "name": "Daily Mix 1",
+        "photoAlbum": "https://dailymix-images.scdn.co/v1/img/32a89a9004fd9d4efb5e9ebf65ce844c355c5c46/1/pt/default"
+      },
+      {
+        "id": 2,
+        "name": "Daily Mix 2",
+        "photoAlbum": "https://dailymix-images.scdn.co/v1/img/4d947dce93a6f48a04f3c8c60a8b94cfccd6ca51/2/pt/default"
+      },
+      {
+        "id": 3,
+        "name": "Daily Mix 3",
+        "photoAlbum": "https://dailymix-images.scdn.co/v1/img/14268eda028f6f5cfb4dbff484e28fd8c21675e6/3/pt/default"
+      },
+      {
+        "id": 4,
+        "name": "Daily Mix 4",
+        "photoAlbum": "https://dailymix-images.scdn.co/v1/img/2acdc1d92b543ad2e2169166a65be8d051322020/4/pt/default"
+      },
+      {
+        "id": 5,
+        "name": "Daily Mix 5",
+        "photoAlbum": "https://dailymix-images.scdn.co/v1/img/f55cab0739390cf3b2c2f773b9c779b2f0ae8a99/5/pt/default"
+      }
+    ],
+    "YourPlaylists": [
+      {
+        "id": 1,
+        "name": "Liked Songs",
+        "photoAlbum": "https://t.scdn.co/images/3099b3803ad9496896c43f22fe9be8c4.png",
+        "create": true
+      },
+      {
+        "id": 2,
+        "name": "músicas para ouvir enquanto coda",
+        "photoAlbum": "https://i.scdn.co/image/ab67706c0000da841b68a2b2e8782f7f5017266a",
+        "create": false
+      },
+      {
+        "id": 3,
+        "name": "Coding",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d0000b27323ddce858fdfad46782143e8ab67616d0000b273806c160566580d6335d1f16cab67616d0000b2739feadc48ab0661e9b3a9170bab67616d0000b273a4d73b32e40487605c73cffe",
+        "create": false
+      },
+      {
+        "id": 4,
+        "name": "Games",
+        "photoAlbum": "https://mosaic.scdn.co/640/ab67616d0000b273235c4311089a9a5542ce352bab67616d0000b273abcf254fd0da4ebf3d7ae05bab67616d0000b273eb0018f092aedc32d20b2bdaab67616d0000b273f29186c301104c2d45b158bb",
+        "create": false
+      }
+    ],
+    "Artists": [
+      {
+        "id": 1,
+        "name": "Slipknot",
+        "photo": "https://i.scdn.co/image/a7958184e76eaec48937485e75d9f7e6d26d097f"
+      },
+      {
+        "id": 2,
+        "name": "The Beatles",
+        "photo": "https://i.scdn.co/image/6b2a709752ef9c7aaf0d270344157f6cd2e0f1a7"
+      },
+      {
+        "id": 3,
+        "name": "Manonas Assassinas",
+        "photo": "https://i.scdn.co/image/ab67616d0000b27320d57bc5fd5bbe506cabc22c"
+      }
+    ]
+  },
+
+  "Categories": {
+    "TopGenres": [
+      {
+        "id": 1,
+        "name": "Hip-Hop",
+        "color": "#F39A24"
+      },
+      {
+        "id": 2,
+        "name": "Pop",
+        "color": "#B8E2BE"
+      },
+      {
+        "id": 3,
+        "name": "Rock",
+        "color": "#EC1E32"
+      },
+      {
+        "id": 4,
+        "name": "Indie",
+        "color": "#4300F7"
+      }
+    ],
+    "All": [
+      {
+        "id": 5,
+        "name": "Indie",
+        "color": "#97B9C5"
+      },
+      {
+        "id": 6,
+        "name": "Podcasts",
+        "color": "#F39A24"
+      },
+      {
+        "id": 7,
+        "name": "New Releases",
+        "color": "#97B9C5"
+      },
+      {
+        "id": 8,
+        "name": "Chats",
+        "color": "#4C917E"
+      },
+      {
+        "id": 9,
+        "name": "Concerts",
+        "color": "#FF6436"
+      },
+      {
+        "id": 10,
+        "name": "Made for You",
+        "color": "#97B9C5"
+      },
+      {
+        "id": 11,
+        "name": "Brazil",
+        "color": "#EFBA5E"
+      },
+      {
+        "id": 12,
+        "name": "Funk",
+        "color": "#2D46BA"
+      },
+      {
+        "id": 13,
+        "name": "Samba & Pagode",
+        "color": "#016450"
+      },
+      {
+        "id": 14,
+        "name": "Summer",
+        "color": "#F39A24"
+      },
+      {
+        "id": 15,
+        "name": "Cities",
+        "color": "#509CF4"
+      },
+      {
+        "id": 16,
+        "name": "Eletronic/Dance",
+        "color": "#96E8DA"
+      },
+      {
+        "id": 17,
+        "name": "Christian",
+        "color": "#509BF7"
+      },
+      {
+        "id": 18,
+        "name": "Spotify Awards",
+        "color": "#12B1B4"
+      },
+      {
+        "id": 19,
+        "name": "MPB",
+        "color": "#9FC3D3"
+      }
+    ]
+  }
+}
